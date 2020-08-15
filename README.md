@@ -1,4 +1,4 @@
-# Centro de Estudos e Sistemas Avançados do Recife - Cesar Shool
+# Centro de Estudos e Sistemas Avançados do Recife - Cesar School
 
 > Mestrado Profissional em Engenharia de Software
 
