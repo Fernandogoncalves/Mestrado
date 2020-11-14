@@ -25,7 +25,5 @@ Análise do Impacto das Boas Práticas de Governança de Dados aliado a Big Data
 <img height="25" src="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Prettier-F7B93E.svg?&style=for-the-badge&logo=Prettier&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=for-the-badge&logo=ESLint&logoColor=white"> </img>
+
  
