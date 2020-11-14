@@ -14,6 +14,14 @@ Análise do Impacto das Boas Práticas de Governança de Dados aliado a Big Data
 - 🎓 Especialsta em Desenvolvimento de Software
 
 ---
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoinfinite/) 
+[![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fernando.infinite@gmail.com)
+[![Discord](http://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](fernandog#5724)
+[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nandoinfinite)
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fernandogoncalvesdeoliveira)
+
+
+---
 **Front-End:**</br>
 </br>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
