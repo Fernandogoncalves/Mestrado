@@ -28,11 +28,10 @@ Análise do Impacto das Boas Práticas de Governança de Dados aliado a Big Data
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
 <img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
-
+<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
 
 
 
